@@ -1,0 +1,3 @@
+Este es un archivo de prueba para el curso de programacion
+python avanzado
+Martes y Jueves
